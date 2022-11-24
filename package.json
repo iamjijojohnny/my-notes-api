@@ -1,0 +1,16 @@
+{
+  "name": "mynotes-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jijo johnny (jx46.io@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.25.7",
+    "sqlite3": "^5.1.2"
+  }
+}
